@@ -1,13 +1,13 @@
 
-<p align="center">
-<img src="assets/banner.png" alt="Alt text" height="150">
+<p align="left">
+<img src="assets/logo.png" alt="Alt text" height="120">
 </p>
 
-# StarPost
+# Contextual Copy
 
-Copy code with contextual metadata automatically appended. 
+Vscode extension to copy code with contextual metadata automatically appended. 
 
-StarPost wraps your selection in a Markdown code block and adds git info (repo, branch, short commit, staging status), filename, and line numbers for easy sharing and archiving.
+Wraps your copied selection in a Markdown code block and adds git info (repo, branch, short commit, staging status), filename, and line numbers for easy sharing and archiving.
 
 ![Screen recording](assets/screen_recording.gif)
 

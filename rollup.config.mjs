@@ -9,7 +9,6 @@ export default {
             file: 'dist/bundle.js',
             format: 'esm',
             plugins: [terser()],
-            sourcemap: true
         }
     ],
     external: ['vscode'],

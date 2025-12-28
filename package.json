@@ -1,6 +1,6 @@
 {
-  "name": "starpost",
-  "displayName": "Starpost",
+  "name": "contextual-copy",
+  "displayName": "Contextual Copy",
   "description": "Copy code with git metadata (repo, branch, commit, file, lines) wrapped in a Markdown code block for easy sharing.",
   "version": "0.2.0",
   "publisher": "jw176",
@@ -8,9 +8,9 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jw176/StarPost.git"
+    "url": "https://github.com/jw176/vscode-contextual-copy.git"
   },
-  "homepage": "https://github.com/jw176/StarPost",
+  "homepage": "https://github.com/jw176/vscode-contextual-copy",
   "engines": {
     "vscode": "^1.103.0"
   },
