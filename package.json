@@ -4,7 +4,7 @@
   "description": "Copy code with git metadata (repo, branch, commit, file, lines) wrapped in a Markdown code block for easy sharing.",
   "version": "0.3.0",
   "publisher": "jw176",
-  "icon": "/assets/logo128.png",
+  "icon": "./assets/logo128.png",
   "type": "module",
   "repository": {
     "type": "git",
